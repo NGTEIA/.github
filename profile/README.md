@@ -19,6 +19,6 @@ Tester
 
 ## Current Projects
 ### Voraxis
-> Voraxis is a cooperative futuristic FPS with exploration, where you and your friends navigate the city's dangers and battle mechs for supremacy.
+> Voraxis is an open-world, co-op, futuristic FPS, where you and your friends navigate the city's dangers and battle mechs for supremacy.
 ### TD-WHY
 > TD-WHY is a simple, but fun Tower Defense style game *with a twist*.
