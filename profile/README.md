@@ -9,11 +9,17 @@ N.T. Interactive is a dynamic game studio dedicated to crafting top-tier Roblox 
 ## Developers
 [@ngw4](https://github.com/@ngw4)
 > Lead Programmer,
+
 > Game Designer,
+
 > Writer,
+
 > Community Manager,
+
 > 3D Artist,
+
 > Sound Design,
+
 > UI/UX Designer
 
 [@caizyy](https://github.com/@caizyy) 
