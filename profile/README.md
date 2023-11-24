@@ -18,9 +18,9 @@ N.T. Interactive is a dynamic game studio dedicated to crafting top-tier Roblox 
 
 [@caizyy](https://github.com/@caizyy) 
 > Programmer,
-\nTester
+> Tester
 
 [@telawz](https://github.com/@telawz)
 > Level Designer,
-Emotional Support,
-Tester
+> Emotional Support,
+> Tester
