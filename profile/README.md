@@ -1,5 +1,10 @@
-## N.T. Interactive
-> N.T. Interactive is a dynamic game studio dedicated to crafting top-tier gaming experiences with unparalleled efficiency and speed.
+# N.T. Interactive
+N.T. Interactive is a dynamic game studio dedicated to crafting top-tier Roblox experiences with unparalleled efficiency and speed.
+
+## Links
+
+[Our Website](https://nti.ngw4.me/)
+[Our Twitter](https://x.com/nt_interactive)
 
 ## Current Projects
 ### Voraxis
